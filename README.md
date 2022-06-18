@@ -2,7 +2,7 @@
 
 - 🔭 I do DevOps automation and optimization things at [Ringcentral](https://github.com/ringcentral).
 - 💬 Ask me about microservices, automations, deployments, and infra.
-- ⚡ Here's my [current setup](https://developer.dreamalarm.in/setup/).
+- ⚡ Here's my [current setup](https://github.com/hariom282538/hariom282538/blob/main/setup.png).
 - 😏 Love Zero-config
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
