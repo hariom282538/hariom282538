@@ -4,7 +4,7 @@
 - 💬 Ask me about microservices, automations, deployments, and infra.
 - ⚡ Here's my [current setup](https://github.com/hariom282538/hariom282538/blob/main/setup.png).
 - 😏 Love Zero-config
-- ✨ Simple is beautiful
+- ✨ Simple is beautiful, less is more
 - 🦥 Write less, do more
 
 
